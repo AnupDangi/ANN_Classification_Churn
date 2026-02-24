@@ -3,6 +3,6 @@ pandas
 numpy
 scikit-learn
 streamlit
-tensorflow==2.15.0
+tensorflow
 tensorboard
 matplotlib
